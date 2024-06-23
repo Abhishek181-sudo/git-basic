@@ -1,2 +1,2 @@
 # git-basic
-Understand basic git workflow.
+Understand basic git workflow. Oh!! its really easy... 
